@@ -5,6 +5,7 @@
     "name": "Edouard Richard",
     "email": "edouard@sourcefabric.org"
   },
+  "main": "./dist/angular-embed.js",
   "dependencies": {},
   "devDependencies": {
     "chai": "^1.9.1",
